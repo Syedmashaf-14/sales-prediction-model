@@ -1,4 +1,4 @@
-##📢 Advertisement Click Prediction using Machine Learning
+## 📢 Advertisement Click Prediction using Machine Learning
 # 📌 Project Overview
 This project focuses on predicting whether a user will click on an online advertisement based on demographic and behavioral data. By applying data preprocessing, feature engineering, and machine learning models, the goal is to improve ad targeting strategies and enhance digital marketing effectiveness.
 # ⚙️ Features
